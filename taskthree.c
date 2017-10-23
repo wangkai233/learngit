@@ -58,7 +58,7 @@ int main(void)
 	{
 		for(col = 0; col < COL;col++)
 		{
-			printf("%d   ",array[row][col]);
+			printf("%d",array[row][col]);
 		}
 		printf("\n");
 	}
